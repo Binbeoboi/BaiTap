@@ -20,9 +20,13 @@ public class Buoi1 {
             switch (choice){
                 case "-1": System.out.println("Stop"); System.exit(0);
                 case "1": MenuDay1();break;
+                case "2":MenuDay2();break;
                 default: System.out.println("Your day is invalid");break;
             }
         }
+    }
+    public static void MenuDay2(){
+
     }
     public static void MenuDay1(){
             System.out.println();
