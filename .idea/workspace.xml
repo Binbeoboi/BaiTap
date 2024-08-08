@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40841671-2fe2-4fdc-995c-7889741537d7" name="Changes" comment="Bai Tap Hom Nay">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Buoi2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Buoi2/ManagerVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Buoi2/Manufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Buoi2/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Buoi2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Buoi3/Buoi3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Buoi3/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Buoi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Buoi1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Vehicle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -56,10 +50,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Buoi1.executor": "Run",
+    "Application.Buoi3.executor": "Run",
     "Application.ManagerVehicle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/usingPath",
     "onboarding.tips.debug.path": "C:/Users/Admin/Java Project/BaiThucHanh/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -80,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722932254190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bai Tap Hom Nay">
+      <option name="closed" value="true" />
+      <created>1723025885524</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723025885524</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
